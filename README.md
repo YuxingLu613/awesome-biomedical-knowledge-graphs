@@ -7,7 +7,9 @@
 Welcome to the Awesome Biological Knowledge Graphs repository! This project aims to curate and share resources related to Biological Knowledge Graphs (BKGs), a powerful tool for organizing and analyzing biological data. Whether you are a researcher, developer, or enthusiast in the field of biology or data science, this repository is a valuable resource for you.
 
 ## News
-🔁 This project is actively under development. Feel free to **STAR** and **WATCH** to stay updated with our progress.
+2023/9/8 This project is actively under development. 
+
+Feel free to **STAR** and **WATCH** to stay updated with our progress.
 
 ## Overview
 
