@@ -20,3 +20,8 @@ Our objective is to assist researchers and practitioners in gaining a deeper und
 
 
 ## Table of Contents
+
+
+
+## Related Surveys
+* Biological applications of knowledge graph embedding models [[paper]](https://academic.oup.com/bib/article-pdf/22/2/1679/36654277/bbaa012.pdf)
