@@ -24,4 +24,4 @@ Our objective is to assist researchers and practitioners in gaining a deeper und
 
 
 ## Related Surveys
-* Biological applications of knowledge graph embedding models [[paper]](https://academic.oup.com/bib/article-pdf/22/2/1679/36654277/bbaa012.pdf)
+* Biological applications of knowledge graph embedding models (Brief. Bioinformatics, 2021) [[paper]](https://academic.oup.com/bib/article-pdf/22/2/1679/36654277/bbaa012.pdf)
