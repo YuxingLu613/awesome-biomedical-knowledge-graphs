@@ -343,6 +343,11 @@ Providing explanation by backtracking through the reasoning process:
 | Hetionet | ChEMBL, BindingDB, ... (29) | 11 | 24 | 47,031 | 2,250,197 | ✗ |
 | DRKG | DrugBank, IntAct, ... (6) | 13 | 107 | 97,238 | 5,874,261 | ✓ |
 | TarKG | MESH, Hetionet, ... | 15 | 171 | 1,143,313 | 32,806,467 | ✓ |
+| SPOKE | ChEMBL, DrugBank, ... (30+) | 20+ | 55 | 500,000+ | 30,000,000+ | ✓ |
+| RTX-KG2 | UniProtKB, ChEMBL, ... (70+) | 61 | 72 | 6,400,000+ | 39,000,000+ | ✗ |
+| OpenBioLink | GO, UBERON, ... (15) | 5 | 28 | 184,732 | 4,563,405 | ✓ |
+| BioKG | DrugBank, IntAct, ... (5) | 5 | 51 | 105,524 | 2,084,382 | ✓ |
+| ROBOKOP | ChEMBL, CTD, ... (20+) | 20+ | 100+ | 3,000,000+ | 30,000,000+ | ✗ |
 
 #### Omics BKGs
 | BKG | Focus | Data Sources | KGE |
@@ -351,6 +356,12 @@ Providing explanation by backtracking through the reasoning process:
 | GenomicsKG | Cancer genomics | TCGA, COSMIC, ... | ✗ |
 | RNA-KG | RNA interactions | HPO, MONDO, ... | ✓ |
 | ProteinKG65 | Protein | UniProt, GO, ... | ✗ |
+| ProteinKG25 | Protein | UniProt, Reactome, ... | ✓ |
+| IDP-KG | Intrinsically disordered proteins | DisProt, STRING, ... | ✓ |
+| PathwayKG | Biological pathways | KEGG, Reactome, WikiPathways | ✓ |
+| MetaKG | Metabolomics | HMDB, MetaCyc, KEGG | ✓ |
+| miRKG | microRNA | miRBase, miRTarBase, ... | ✓ |
+| BioGRID | Protein-protein interactions | Manual curation, high-throughput | ✗ |
 
 #### Pharmacology BKGs
 | BKG | Focus | Data Sources | KGE |
@@ -358,6 +369,12 @@ Providing explanation by backtracking through the reasoning process:
 | DrugMechDB | Drug mechanisms | DrugBank, UniProt, ... | ✗ |
 | OREGANO | Natural compounds | PharmGKB, SIDER, ... (8) | ✓ |
 | IPM-KG | Drug pathways | DrugBank, CTD, ... (4) | ✓ |
+| TTD | Therapeutic targets | Manual curation, UniProt, ... | ✗ |
+| SIDER-KG | Drug side effects | SIDER, UMLS, ... | ✓ |
+| ADRKNet | Adverse drug reactions | FDA Adverse Event, DrugBank | ✓ |
+| Drug-Target Commons | Drug-target interactions | ChEMBL, BindingDB, ... | ✓ |
+| PharmKG-i2b2 | Clinical pharmacology | i2b2, DrugBank, ... | ✓ |
+| KGDRP | Drug discovery | Multiple drug databases | ✓ |
 
 #### Medical BKGs
 | BKG | Focus | Data Sources | KGE |
@@ -366,6 +383,13 @@ Providing explanation by backtracking through the reasoning process:
 | CTKG | Clinical trials | AACT | ✓ |
 | SDKG-11 | 11 diseases | MirBase, ChEMBI, ... (7) | ✓ |
 | KGHC | Hepatocellular carcinoma | SemMedDB, PubMed, ... | ✓ |
+| COVID-19-KG | COVID-19 | CORD-19, CTD, UniProt, ... | ✓ |
+| PKG | PubMed literature | PubMed, UMLS, ... | ✗ |
+| EHR-KG | Electronic health records | MIMIC-IV, OMOP, ... | ✓ |
+| Alzheimer-KG | Alzheimer's disease | OMIM, DisGeNET, ... | ✓ |
+| MIMIC-KG | Intensive care | MIMIC-III, UMLS, ... | ✓ |
+| Cancer-KG | Cancer | TCGA, COSMIC, OncoKB, ... | ✓ |
+| DiseaseKG | Disease mechanisms | OMIM, DO, HPO, ... | ✓ |
 
 ### KG Tools
 
