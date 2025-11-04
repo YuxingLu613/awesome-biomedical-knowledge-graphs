@@ -720,4 +720,4 @@ This project is licensed under the Apache License 2.0 - see the LICENSE file for
 ## Contact
 
 For questions or collaborations, please contact:
-- Jinzhuo Wang: wangjinzhuo@pku.edu.cn
+- Yuxing Lu: yxlu0613@gmail.com
