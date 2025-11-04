@@ -1,7 +1,6 @@
 # Awesome Biomedical Knowledge Graphs
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 ![](https://img.shields.io/github/last-commit/YuxingLu613/awesome-biological-knowledge-graphs?color=green)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
