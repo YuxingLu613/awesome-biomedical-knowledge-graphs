@@ -7,8 +7,28 @@
 
 Welcome to the Awesome Biomedical Knowledge Graphs repository! This project aims to curate and share resources related to Biomedical Knowledge Graphs (BKGs), a powerful tool for organizing and analyzing biological data. Whether you are a researcher, developer, or enthusiast in the field of biology or data science, this repository is a valuable resource for you.
 
+## Citation
+
+If you find this repository useful, please consider citing our survey paper:
+
+**Biomedical Knowledge Graph: A Survey of Domains, Tasks, and Real-World Applications**
+Yuxing Lu, Sin Yee Goi, Xukai Zhao, Jinzhuo Wang
+arXiv:2501.11632, 2025
+[[Paper]](https://arxiv.org/pdf/2501.11632)
+
+```bibtex
+@article{lu2025biomedical,
+  title={Biomedical Knowledge Graph: A Survey of Domains, Tasks, and Real-World Applications},
+  author={Lu, Yuxing and Goi, Sin Yee and Zhao, Xukai and Wang, Jinzhuo},
+  journal={arXiv preprint arXiv:2501.11632},
+  year={2025}
+}
+```
+
 ## News
-2024/9/5 This project is actively under development. 
+2025/1/22 Our survey paper "Biomedical Knowledge Graph: A Survey of Domains, Tasks, and Real-World Applications" is now available on arXiv!
+
+2024/9/5 This project is actively under development.
 
 Feel free to **STAR** and **WATCH** to stay updated with our progress.
 
@@ -24,6 +44,7 @@ Our objective is to assist researchers and practitioners in gaining a deeper und
 
 
 ## Related Surveys
+* **Biomedical Knowledge Graph: A Survey of Domains, Tasks, and Real-World Applications** (arXiv, 2025) [[paper]](https://arxiv.org/pdf/2501.11632) - *This repository's accompanying survey paper*
 * Biological applications of knowledge graph embedding models (Brief. Bioinformatics, 2021) [[paper]](https://academic.oup.com/bib/article-pdf/22/2/1679/36654277/bbaa012.pdf)
 * A Survey on Knowledge Graphs for Healthcare: Resources, Applications, and Promises (Arxiv, 2023) [[paper]](https://arxiv.org/pdf/2306.04802.pdf)
 * Constructing knowledge graphs and their biomedical applications (CSBJ, 2020) [[paper]](https://www.sciencedirect.com/science/article/pii/S2001037020302804/pdfft?md5=d48e7270883ec9984fbe0eb51a166eeb&pid=1-s2.0-S2001037020302804-main.pdf)
