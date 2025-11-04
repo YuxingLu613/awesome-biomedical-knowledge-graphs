@@ -453,6 +453,259 @@ Providing explanation by backtracking through the reasoning process:
 - A Survey on Knowledge Graphs for Healthcare: Resources, Applications, and Promises (arXiv, 2023) [[paper]](https://arxiv.org/pdf/2306.04802.pdf)
 - Constructing knowledge graphs and their biomedical applications (CSBJ, 2020) [[paper]](https://www.sciencedirect.com/science/article/pii/S2001037020302804/pdfft?md5=d48e7270883ec9984fbe0eb51a166eeb&pid=1-s2.0-S2001037020302804-main.pdf)
 
+## Referenced Papers
+
+This section contains all 196 papers referenced in our survey, organized by topic for easy navigation.
+
+### Knowledge Graph Foundations & Embeddings
+
+| # | Title | First Author et al. | Year | Venue |
+|---|-------|-------------------|------|-------|
+| 12 | A Survey on Knowledge Graphs: Representation, Acquisition, and Applications | Ji, S., et al. | 2022 | IEEE Trans Neural Netw Learn Syst |
+| 13 | A Survey on Knowledge Graph Embedding | Yan, Q., et al. | 2022 | DSC |
+| 14 | Knowledge Graphs: Opportunities and Challenges | Peng, C., et al. | 2023 | Artif Intell Rev |
+| 15 | A Comprehensive Survey on Automatic Knowledge Graph Construction | Zhong, L., et al. | 2023 | ACM Comput Surv |
+| 21 | Knowledge Graph Embedding for Link Prediction | Rossi, A., et al. | 2021 | ACM TKDD |
+| 23 | Adversarial Explanations for Knowledge Graph Embeddings | Patrick Betz, C.M., et al. | 2022 | IJCAI |
+| 24 | Translating embeddings for modeling multi-relational data | Bordes, A., et al. | 2013 | NeurIPS |
+| 25 | Knowledge graph embedding by translating on hyperplanes | Wang, Z., et al. | 2014 | AAAI |
+| 26 | Knowledge graph embedding via dynamic mapping matrix | Ji, G., et al. | 2015 | ACL |
+| 27 | Learning entity and relation embeddings for knowledge graph completion | Lin, Y., et al. | 2015 | AAAI |
+| 28 | Embedding Entities and Relations for Learning and Inference in Knowledge Bases | Yang, B., et al. | 2014 | ICLR |
+| 29 | A three-way model for collective learning on multi-relational data | Nickel, M., et al. | 2011 | ICML |
+| 32 | Rotate: Knowledge graph embedding by relational rotation in complex space | Sun, Z., et al. | 2019 | arXiv |
+| 47 | A review: Knowledge reasoning over knowledge graph | Chen, X., et al. | 2020 | Expert Syst Appl |
+| 145 | Knowledge Graph Completion: A Review | Chen, Z., et al. | 2020 | IEEE Access |
+| 146 | A Review of Knowledge Graph Completion | Zamini, M., et al. | 2022 | Information |
+| 155 | Complex Embeddings for Simple Link Prediction | Trouillon, T., et al. | 2016 | arXiv |
+
+### Biomedical Knowledge Graphs - Construction & Methods
+
+| # | Title | First Author et al. | Year | Venue |
+|---|-------|-------------------|------|-------|
+| 1 | A knowledge graph to interpret clinical proteomics data | Santos, A., et al. | 2022 | Nat Biotechnol |
+| 2 | Towards electronic health record-based medical knowledge graph construction, completion, and applications | Murali, L., et al. | 2023 | J Biomed Inform |
+| 3 | Big data application in biomedical research and health care | Luo, J., et al. | 2016 | Biomed Inform Insights |
+| 4 | Network embedding in biomedical data science | Su, C., et al. | 2020 | Brief Bioinform |
+| 5 | Knowledge-Based Biomedical Data Science | Callahan, T.J., et al. | 2020 | Annu Rev Biomed Data Sci |
+| 8 | Constructing knowledge graphs and their biomedical applications | Nicholson, D.N., et al. | 2020 | Comput Struct Biotechnol J |
+| 9 | Toward better drug discovery with knowledge graph | Zeng, X., et al. | 2022 | Curr Opin Struct Biol |
+| 10 | Medical Knowledge Graph: Data Sources, Construction, Reasoning, and Applications | Wu, X., et al. | 2023 | Big Data Min Anal |
+| 11 | A Survey on Knowledge Graphs for Healthcare | Cui, H., et al. | 2023 | arXiv |
+| 22 | Biological applications of knowledge graph embedding models | Mohamed, S.K., et al. | 2021 | Brief Bioinform |
+| 34 | Multi-Modal Knowledge Graph Construction and Application: A Survey | Zhu, X., et al. | 2024 | IEEE TKDE |
+| 35 | A Systematic Review on Knowledge Graphs Classification and Their Various Usages | Mst. Mim, A., et al. | 2023 | Artif Intell Evol |
+| 37 | Graph representation learning in biomedicine and healthcare | Li, M.M., et al. | 2022 | Nat Biomed Eng |
+| 40 | Individualized Knowledge Graph: A Viable Informatics Path to Precision Medicine | Ping, P., et al. | 2017 | Circ Res |
+| 45 | Large-scale knowledge graph representations of disease processes | Hoch, M., et al. | 2024 | Curr Opin Syst Biol |
+| 104 | Semantic Health Knowledge Graph | Shi, L., et al. | 2017 | Biomed Res Int |
+| 112 | Building a knowledge graph to enable precision medicine | Chandak, P., et al. | 2023 | Sci Data |
+
+### Relation Extraction & NLP
+
+| # | Title | First Author et al. | Year | Venue |
+|---|-------|-------------------|------|-------|
+| 16 | RECON: Relation Extraction using Knowledge Graph Context in a Graph Neural Network | Bastos, A., et al. | 2021 | WWW |
+| 17 | Incorporating medical knowledge in BERT for clinical relation extraction | Roy, A., et al. | 2021 | Conference |
+| 18 | A hybrid model based on neural networks for biomedical relation extraction | Zhang, Y., et al. | 2018 | J Biomed Inform |
+| 19 | Broad-coverage biomedical relation extraction with SemRep | Kilicoglu, H., et al. | 2020 | BMC Bioinformatics |
+| 20 | Biomedical Relation Extraction With Knowledge Graph-Based Recommendations | Sousa, D., et al. | 2022 | IEEE J Biomed Health Inform |
+| 187 | KGBReF | Sun, Y., et al. | 2021 | ISME |
+| 188 | Learning to Leverage High-Order Medical Knowledge Graph for Joint Entity and Relation Extraction | Yang, Z., et al. | 2023 | Conference |
+| 189 | GREG: A Global Level Relation Extraction with Knowledge Graph Embedding | Kim, K., et al. | 2020 | Appl Sci |
+
+### Large Language Models & Knowledge Graphs
+
+| # | Title | First Author et al. | Year | Venue |
+|---|-------|-------------------|------|-------|
+| 6 | Unifying Large Language Models and Knowledge Graphs: A Roadmap | Pan, S., et al. | 2024 | IEEE TKDE |
+| 7 | Enhancing multimodal knowledge graph representation learning through triple contrastive learning | Lu, Y., et al. | 2024 | IJCAI |
+| 48 | Knowledge Graph Large Language Model (KG-LLM) for Link Prediction | Shu, D., et al. | 2024 | Conference |
+| 49 | A framework for human evaluation of large language models in healthcare | Tam, T.Y.C., et al. | 2024 | NPJ Digit Med |
+| 50 | The future landscape of large language models in medicine | Clusmann, J., et al. | 2023 | Commun Med |
+| 51 | The application of large language models in medicine | Meng, X., et al. | 2024 | iScience |
+| 136 | Biomedical knowledge graph-optimized prompt generation for large language models | Soman, K., et al. | 2024 | Bioinformatics |
+| 137 | Phenomics Assistant: An Interface for LLM-based Biomedical Knowledge Graph Exploration | O'Neil, S.T., et al. | 2024 | bioRxiv |
+| 154 | FuseLinker: Leveraging LLM's pre-trained text embeddings and domain knowledge | Xiao, Y., et al. | 2024 | J Biomed Inform |
+| 156 | Explainable Biomedical Hypothesis Generation via Retrieval Augmented Generation | Pelletier, A., et al. | 2024 | Conference |
+| 157 | Medical Graph RAG | Wu, J., et al. | 2024 | arXiv |
+| 165 | ClinicalRAG: Enhancing Clinical Decision Support through Heterogeneous Knowledge Retrieval | Lu, Y., et al. | 2024 | Workshop |
+| 166 | Rag and rau: A survey on retrieval-augmented language model | Hu, Y., et al. | 2024 | arXiv |
+| 167 | ClinicalRAG: Enhancing Clinical Decision Support through Heterogeneous Knowledge Retrieval | Lu, Y., et al. | 2024 | Workshop |
+| 173 | An Enhanced Prompt-Based LLM Reasoning Scheme via Knowledge Graph-Integrated Collaboration | Li, Y., et al. | 2024 | ICANN |
+| 174 | Knowledge-graph-based explainable AI | Rajabi, E., et al. | 2024 | J Inf Sci |
+| 175 | KRAGEN: a knowledge graph-enhanced RAG framework | Matsumoto, N., et al. | 2024 | Bioinformatics |
+| 176 | Knowledge Graphs as Context Sources for LLM-Based Explanations | Abu-Rasheed, H., et al. | 2024 | EDUCON |
+| 177 | Cross-Data Knowledge Graph Construction for LLM-enabled Educational QA System | Bui, T., et al. | 2024 | ACM Workshop |
+| 178 | Can Language Models be Biomedical Knowledge Bases? | Sung, M., et al. | 2021 | arXiv |
+| 180 | Benchmarking Biomedical Relation Knowledge in Large Language Models | Zhang, F., et al. | 2024 | BIBE |
+
+### Multi-omics & Genomics
+
+| # | Title | First Author et al. | Year | Venue |
+|---|-------|-------------------|------|-------|
+| 52 | GenomicKB: a knowledge graph for the human genome | Feng, F., et al. | 2023 | Nucleic Acids Res |
+| 53 | GenomicsKG: A Knowledge Graph to Visualize Poly-Omics Data | Jha, A., et al. | 2019 | J Adv Health |
+| 54 | An ontology-based knowledge graph for representing interactions involving RNA molecules | Cavalleri, E., et al. | 2024 | Sci Data |
+| 55 | Knowledge graph construction based on granulosa cells transcriptome | Liu, W., et al. | 2024 | J Ovarian Res |
+| 56 | miRNA-Disease Association Prediction with Collaborative Matrix Factorization | Shen, Z., et al. | 2017 | Complexity |
+| 57 | A Meta-Graph for the Construction of an RNA-Centered Knowledge Graph | Cavalleri, E., et al. | 2023 | IWBBIO |
+| 58 | Metastatic Site Prediction in Breast Cancer using Omics Knowledge Graph | Jha, A., et al. | 2020 | bioRxiv |
+| 59 | OntoProtein: Protein Pretraining With Gene Ontology Embedding | Zhang, N., et al. | 2022 | arXiv |
+| 60 | Machine learning prediction and tau-based screening identifies potential Alzheimer's disease genes | Binder, J., et al. | 2022 | Commun Biol |
+| 61 | Creating and Exploiting the Intrinsically Disordered Protein Knowledge Graph (IDP-KG) | Gray, A.J.G., et al. | 2022 | SWAT4HCLS |
+| 62 | Accurate prediction of kinase-substrate networks using knowledge graphs | Novacek, V., et al. | 2020 | PLoS Comput Biol |
+| 63 | Multi-Modal Protein Knowledge Graph Construction and Applications | Cheng, S., et al. | 2023 | AAAI |
+| 94 | A knowledge graph approach to predict and interpret disease-causing gene interactions | Renaux, A., et al. | 2023 | BMC Bioinformatics |
+| 140 | GOProteinGNN: Leveraging Protein Knowledge Graphs for Protein Representation Learning | Kalifa, D., et al. | 2024 | arXiv |
+
+### Pharmacology & Drug Discovery
+
+| # | Title | First Author et al. | Year | Venue |
+|---|-------|-------------------|------|-------|
+| 36 | MKGE: Knowledge graph embedding with molecular structure information | Zhang, Y., et al. | 2022 | Comput Biol Chem |
+| 39 | Prediction of drug-drug interaction events using graph neural networks | Al-Rabeah, M.H., et al. | 2022 | Sci Rep |
+| 41 | Explainable drug repurposing via path based knowledge graph completion | Jimenez, A., et al. | 2024 | Sci Rep |
+| 42 | Discovering protein drug targets using knowledge graph embeddings | Mohamed, S.K., et al. | 2020 | Bioinformatics |
+| 43 | Neural Multi-hop Reasoning with Logical Rules on Biomedical Knowledge Graphs | Liu, Y., et al. | 2021 | Semantic Web |
+| 44 | Explainable Biomedical Recommendations via Reinforcement Learning Reasoning | Edwards, G.P., et al. | 2021 | arXiv |
+| 64 | FORUM: building a Knowledge Graph from public databases | Delmas, M., et al. | 2021 | Bioinformatics |
+| 65 | Predicting the effects of drugs using IPM-KG | Tanaka, T., et al. | 2025 | Comput Biol Med |
+| 66 | DrugMechDB: A Curated Database of Drug Mechanisms | Gonzalez-Cavazos, A.C., et al. | 2023 | Sci Data |
+| 67 | Drug repurposing for COVID-19 via knowledge graph completion | Zhang, R., et al. | 2021 | J Biomed Inform |
+| 68 | Biological Insights Knowledge Graph | Geleta, D., et al. | 2021 | bioRxiv |
+| 69 | KG-Predict: A knowledge graph computational framework for drug repurposing | Gao, Z., et al. | 2022 | J Biomed Inform |
+| 70 | The OREGANO knowledge graph for computational drug repurposing | Boudin, M., et al. | 2023 | Sci Data |
+| 71 | Transporter proteins knowledge graph construction | Chen, X.H., et al. | 2023 | Comput Struct Biotechnol J |
+| 72 | MegaKG: Toward an explainable knowledge graph for early drug development | Dong, J., et al. | 2024 | bioRxiv |
+| 73 | Knowledge-driven drug repurposing using a comprehensive drug knowledge graph | Zhu, Y., et al. | 2020 | Health Inform J |
+| 74 | Mining on Alzheimer's diseases related knowledge graph | Nian, Y., et al. | 2022 | BMC Bioinformatics |
+| 75 | Large-scale structural and textual similarity-based mining for drug-drug interactions | Abdelaziz, I., et al. | 2017 | J Web Semant |
+| 76 | Knowledge graph prediction of unknown adverse drug reactions | Bean, D.M., et al. | 2017 | Sci Rep |
+| 77 | Drugomics: Knowledge Graph & AI to Construct Physicians' Brain Digital Twin | Talukder, A.K., et al. | 2022 | Big Data Anal |
+| 78 | Drug-Drug Interaction Prediction Based on Knowledge Graph Embeddings | Karim, M.R., et al. | 2019 | ACM BCB |
+| 79 | Prediction of adverse drug reactions based on knowledge graph embedding | Zhang, F., et al. | 2021 | BMC Med Inform Decis Mak |
+| 95 | Medical knowledge graph question answering for drug-drug interaction prediction | Gao, P., et al. | 2024 | CAAI Trans Intell Technol |
+| 114 | Advancing drug-target interaction prediction | Djeddi, W.E., et al. | 2023 | BMC Bioinformatics |
+| 115 | Injecting domain knowledge into graph neural networks | Balbi, L., et al. | 2024 | Conference |
+| 116 | A foundation model for clinician-centered drug repurposing | Huang, K., et al. | 2024 | Nat Med |
+| 119 | COVID-19 Knowledge Graph | Domingo-Fernandez, D., et al. | 2021 | Bioinformatics |
+| 141 | KnowLife: A knowledge graph for health and life sciences | Ernst, P., et al. | 2014 | ICDE |
+| 142 | Finding melanoma drugs through a probabilistic knowledge graph | McCusker, J.P., et al. | 2017 | PeerJ Comput Sci |
+| 152 | DPDDI: a deep predictor for drug-drug interactions | Feng, Y.H., et al. | 2020 | BMC Bioinformatics |
+| 153 | A probabilistic knowledge graph for target identification | Liu, C., et al. | 2024 | PLoS Comput Biol |
+| 179 | From Large Language Models to Knowledge Graphs for Biomarker Discovery | Karim, M.R., et al. | 2023 | arXiv |
+| 182 | A unified drug-target interaction prediction framework | Ye, Q., et al. | 2021 | Nat Commun |
+| 183 | Adverse Drug Reaction Discovery Using a Tumor-Biomarker Knowledge Graph | Wang, M., et al. | 2020 | Front Genet |
+| 184 | Integrating knowledge graphs into machine learning for survival prediction | Fang, C., et al. | 2024 | J Transl Med |
+| 185 | A Biomedical Knowledge Graph for Biomarker Discovery in Cancer | Karim, M.R., et al. | 2023 | arXiv |
+| 195 | Drkg-drug repurposing knowledge graph for covid-19 | Ioannidis, V.N., et al. | 2020 | arXiv |
+| 196 | Design Considerations for a Knowledge Graph: The WATRIMed Use Case | Some, B.M.J., et al. | 2019 | Stud Health Technol Inform |
+
+### Medical & Clinical Applications
+
+| # | Title | First Author et al. | Year | Venue |
+|---|-------|-------------------|------|-------|
+| 31 | Pay attention to doctor-patient dialogues | Zheng, W., et al. | 2021 | Inf Fusion |
+| 33 | Enhancing ophthalmology medical record management with multi-modal knowledge graphs | Gao, W., et al. | 2024 | Sci Rep |
+| 38 | Molecular-evaluated and explainable drug repurposing for COVID-19 | Islam, M.K., et al. | 2023 | Sci Rep |
+| 46 | Inference of Biomedical Relations Among Chemicals, Genes, Diseases, and Symptoms | Choi, W., et al. | 2019 | IEEE Access |
+| 81 | A knowledge graph based question answering method for medical domain | Huang, X., et al. | 2021 | PeerJ Comput Sci |
+| 82 | EHR-Oriented Knowledge Graph System | Shang, Y., et al. | 2021 | IEEE J Biomed Health Inform |
+| 83 | SMR: Medical Knowledge Graph Embedding for Safe Medicine Recommendation | Gong, F., et al. | 2021 | Big Data Res |
+| 84 | Multimodal reasoning based on knowledge graph embedding for specific diseases | Zhu, C., et al. | 2022 | Bioinformatics |
+| 85 | KGHC: a knowledge graph for hepatocellular carcinoma | Li, N., et al. | 2020 | BMC Med Inform Decis Mak |
+| 86 | Constructing Knowledge Graphs of Depression | Huang, Z., et al. | 2017 | HIS |
+| 87 | Kame | Ma, F., et al. | 2018 | CIKM |
+| 88 | Medical Knowledge Graph to Enhance Fraud, Waste, and Abuse Detection | Sun, H., et al. | 2020 | JMIR Med Inform |
+| 89 | A global network of biomedical relationships derived from text | Percha, B., et al. | 2018 | Bioinformatics |
+| 90 | Learning a Health Knowledge Graph from Electronic Medical Records | Rotmensch, M., et al. | 2017 | Sci Rep |
+| 91 | A knowledge graph of clinical trials | Chen, Z., et al. | 2022 | Sci Rep |
+| 92 | Towards a Knowledge Graph of Health Evolution | Morales Tirado, A.C., et al. | 2022 | EKAW |
+| 93 | Construction of a knowledge graph for diabetes complications | Wang, L., et al. | 2020 | Comput Assist Surg |
+| 96 | COVID-19 Knowledge Graph for Drug and Vaccine Development | Huang, L., et al. | 2021 | BIBM |
+| 97 | PharmKG: a dedicated knowledge graph benchmark | Zheng, S., et al. | 2021 | Brief Bioinform |
+| 98 | TarKG: a comprehensive biomedical knowledge graph for target discovery | Zhou, C., et al. | 2024 | Bioinformatics |
+| 99 | Systematic integration of biomedical knowledge prioritizes drugs for repurposing | Himmelstein, D.S., et al. | 2017 | Elife |
+| 100 | BioKG | Walsh, B., et al. | 2020 | CIKM |
+| 101 | An integrative knowledge graph for rare diseases | Zhu, Q., et al. | 2020 | J Biomed Semantics |
+| 102 | Knowledge Graphs of Kawasaki Disease | Huang, Z., et al. | 2021 | Health Inf Sci Syst |
+| 103 | SemaTyP: a knowledge graph based literature mining method | Sang, S., et al. | 2018 | BMC Bioinformatics |
+| 105 | A Literature-Based Knowledge Graph Embedding Method | Sosa, D.N., et al. | 2020 | Pac Symp Biocomput |
+| 106 | The Unified Medical Language System (UMLS) | Bodenreider, O. | 2004 | Nucleic Acids Res |
+| 107 | Knowledge Graph-Enabled Cancer Data Analytics | Hasan, S.M.S., et al. | 2020 | IEEE J Biomed Health Inform |
+| 108 | Improving chronic disease management for children | Yu, G., et al. | 2022 | Expert Syst Appl |
+| 113 | Mining health knowledge graph for health risk prediction | Tao, X., et al. | 2020 | World Wide Web |
+| 117 | CVD Atlas: a multi-omics database of cardiovascular disease | Qian, Q., et al. | 2024 | Nucleic Acids Res |
+| 118 | VisAGE: Integrating external knowledge into electronic medical record visualization | Huang, E.W., et al. | 2018 | Pac Symp Biocomput |
+| 120 | ALOHA: developing an interactive graph-based visualization for dietary supplement | He, X., et al. | 2019 | BMC Med Inform Decis Mak |
+| 121 | Application and evaluation of knowledge graph embeddings in biomedical data | Alshahrani, M., et al. | 2021 | PeerJ Comput Sci |
+| 122 | The biomedical knowledge graph of symptom phenotype in coronary artery plaque | Huan, J.M., et al. | 2024 | BioData Min |
+| 125 | HEAL: A Knowledge Graph for Distress Management Conversations | Welivita, A., et al. | 2022 | AAAI |
+| 128 | Building a PubMed knowledge graph | Xu, J., et al. | 2020 | Sci Data |
+| 129 | A Coherent Biomedical Literature Clustering and Summarization Approach | Yoo, I., et al. | 2006 | DaWaK |
+| 130 | Literature-Based Discovery beyond the ABC paradigm | Moreau, E., et al. | 2021 | bioRxiv |
+| 131 | CoMent: Relationships Between Biomedical Concepts Inferred From the Scientific Literature | Pazos, F., et al. | 2022 | J Mol Biol |
+| 132 | Expanding a database-derived biomedical knowledge graph | Nicholson, D.N., et al. | 2022 | BioData Min |
+| 133 | Multitask Healthcare Management Recommendation System | Liu, W., et al. | 2021 | J Healthc Eng |
+| 134 | When Radiology Report Generation Meets Knowledge Graph | Zhang, Y., et al. | 2020 | AAAI |
+| 135 | A Relational-Learning Perspective To Multi-Label Chest X-Ray Classification | Sekuboyina, A.K., et al. | 2021 | ISBI |
+| 138 | DKDR: An Approach of Knowledge Graph and Deep Reinforcement Learning for Disease Diagnosis | Jia, Y., et al. | 2019 | ISPA |
+| 139 | Deep Bidirectional Language-Knowledge Graph Pretraining | Yasunaga, M., et al. | 2022 | arXiv |
+| 143 | Learning and inference in knowledge-based probabilistic model for medical diagnosis | Jiang, J., et al. | 2017 | Knowl Based Syst |
+| 144 | Towards Smart Healthcare Management Based on Knowledge Graph Technology | Huang, L., et al. | 2019 | ICSCA |
+| 147 | Leap | Zhang, Y., et al. | 2017 | KDD |
+| 148 | GAMENet: graph augmented memory networks for recommending medication combination | Shang, J., et al. | 2019 | AAAI |
+| 149 | Smore | Ren, H., et al. | 2022 | KDD |
+| 150 | Personalizing Medication Recommendation with a Graph-Based Approach | Bhoi, S., et al. | 2021 | ACM TOIS |
+| 151 | A Knowledge Graph Approach to Elucidate the Role of Organellar Pathways in Disease | Pelletier, A.R., et al. | 2023 | J Vis Exp |
+| 164 | Medkpl: a heterogeneous knowledge enhanced prompt learning framework | Lu, Y., et al. | 2023 | J Biomed Inform |
+| 168 | Design and Implementation of Personal Health Record Systems Based on Knowledge Graph | Wang, H., et al. | 2018 | ITME |
+| 169 | An overview of clinical decision support systems | Sutton, R.T., et al. | 2020 | NPJ Digit Med |
+| 170 | Biomedical knowledge graph embeddings for personalized medicine | Vilela, J., et al. | 2022 | Expert Syst |
+| 171 | Knowledge Graph Applications in Medical Imaging Analysis | Wang, S., et al. | 2022 | Health Data Sci |
+| 172 | Imaging-based observational databases for clinical problem solving | Bui, A.A., et al. | 2013 | J Am Med Inform Assoc |
+| 181 | Medical knowledge-enhanced prompt learning for diagnosis classification | Lu, Y., et al. | 2023 | ClinicalNLP |
+| 186 | GENA: A knowledge graph for nutrition and mental health | Dang, L.D., et al. | 2023 | J Biomed Inform |
+| 190 | A Knowledge Graph Enhanced Learner Model | Ettorre, A., et al. | 2020 | EKAW |
+| 191 | How to Empower Disease Diagnosis in a Medical Education System | Ansong, S., et al. | 2019 | WISA |
+| 192 | OpenBioLink: a benchmarking framework | Breit, A., et al. | 2020 | Bioinformatics |
+| 193 | ROBOKOP KG and KGB | Bizon, C., et al. | 2019 | J Chem Inf Model |
+| 194 | Enriching contextualized language model from knowledge graph | Fei, H., et al. | 2021 | Brief Bioinform |
+
+### Graph Neural Networks & Deep Learning
+
+| # | Title | First Author et al. | Year | Venue |
+|---|-------|-------------------|------|-------|
+| 30 | Representation Learning of Histopathology Images using Graph Neural Networks | Adnan, M., et al. | 2020 | CVPRW |
+| 158 | ExFaKT: A Framework for Explaining Facts over Knowledge Graphs and Text | Gad-Elrab, M.H., et al. | 2019 | WSDM |
+| 159 | GAP: A Graph-aware Language Model Framework | Colas, A., et al. | 2022 | COLING |
+| 160 | JointGT: Graph-Text Joint Representation Learning | Ke, P., et al. | 2021 | Findings |
+| 161 | Few-shot Knowledge Graph-to-Text Generation | Junyi, L., et al. | 2021 | Conference |
+| 162 | KG-BART: Knowledge Graph-Augmented BART | Liu, Y., et al. | 2020 | arXiv |
+| 163 | EventNarrative: A large-scale Event-centric Dataset | Colas, A., et al. | 2021 | arXiv |
+
+### Visualization & Analysis
+
+| # | Title | First Author et al. | Year | Venue |
+|---|-------|-------------------|------|-------|
+| 123 | QueDI: From Knowledge Graph Querying to Data Visualization | De Donato, R., et al. | 2020 | SEMANTiCS |
+| 124 | Construction, Visualization and Application of Knowledge Graph of Computer Science Major | Li, Y., et al. | 2019 | ICBDE |
+| 126 | Research Status, Hotspots, and Evolutionary Trends of Intelligent Education | Shi, D., et al. | 2022 | Sustainability |
+| 127 | A systematic study of knowledge graph analysis for cross-language plagiarism detection | Franco-Salvador, M., et al. | 2016 | Inf Process Manag |
+
+### Databases & Data Sources
+
+| # | Title | First Author et al. | Year | Venue |
+|---|-------|-------------------|------|-------|
+| 80 | Pharmacokinetic and Pharmacodynamic Principles for Toxicology | Lista, A.D., et al. | 2021 | Crit Care Clin |
+| 106 | The Unified Medical Language System (UMLS): integrating biomedical terminology | Bodenreider, O. | 2004 | Nucleic Acids Res |
+| 109 | Gene Expression Omnibus: NCBI gene expression and hybridization array data repository | Edgar, R., et al. | 2002 | Nucleic Acids Res |
+| 110 | DECIPHER: database for the interpretation of phenotype-linked plausibly pathogenic sequence | Bragin, E., et al. | 2014 | Nucleic Acids Res |
+| 111 | MIMIC-III, a freely accessible critical care database | Johnson, A.E.W., et al. | 2016 | Sci Data |
+
+> **Note**: This section includes a curated selection of the 196 papers referenced in our survey. For the complete list with full citations and DOIs, please refer to the [survey paper](https://arxiv.org/pdf/2501.11632).
+
 ## Contributing
 
 We welcome contributions from the community! Please feel free to:
